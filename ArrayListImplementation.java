@@ -6,12 +6,12 @@ package dslab;
 
 /**
  *
- * @author User
+ * @author Sanket Prajpati
  */
 import java.util.ArrayList;
 public class ArrayListImplementation {
     
-    public static void main(String[] args) {
+public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<>();
         
         list.add(1);
