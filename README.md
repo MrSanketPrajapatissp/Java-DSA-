@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/0049-group-anagrams) |
+| [0463-island-perimeter](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/0463-island-perimeter) |
 | [0753-open-the-lock](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/0753-open-the-lock) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/0463-island-perimeter) |
 | [0753-open-the-lock](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/0753-open-the-lock) |
 ## Sorting
 |  |
@@ -42,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/1023-time-based-key-value-store) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
