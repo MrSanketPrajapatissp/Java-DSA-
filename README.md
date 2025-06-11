@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/0463-island-perimeter) |
 | [0753-open-the-lock](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/0753-open-the-lock) |
 | [0990-verifying-an-alien-dictionary](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/0990-verifying-an-alien-dictionary) |
+| [1039-find-the-town-judge](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/1039-find-the-town-judge) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/0753-open-the-lock) |
 | [0990-verifying-an-alien-dictionary](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/1023-time-based-key-value-store) |
+| [1039-find-the-town-judge](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/1039-find-the-town-judge) |
 ## String
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/0463-island-perimeter) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
