@@ -33,7 +33,7 @@ class Solution {
            {
              Node node = q.remove();
            
-                level.add(node.val);
+             level.add(node.val);
               for(Node child : node.children)
              {
                 q.add(child);
