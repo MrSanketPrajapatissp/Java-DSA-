@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/0463-island-perimeter) |
 | [0753-open-the-lock](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/0753-open-the-lock) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/0764-n-ary-tree-level-order-traversal) |
 ## Sorting
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/1039-find-the-town-judge) |
+## Tree
+|  |
+| ------- |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/MrSanketPrajapatissp/Java-DSA-/tree/master/0764-n-ary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
